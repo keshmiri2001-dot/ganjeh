@@ -1,0 +1,7 @@
+{
+  "banners": [
+    { "id": "b1", "image": "ads/b1.webp" },
+    { "id": "b2", "image": "ads/b2.webp" },
+    { "id": "b3", "image": "ads/b3.webp" }
+  ]
+}
